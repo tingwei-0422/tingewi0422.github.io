@@ -1,0 +1,11 @@
+body { font-family: 'Segoe UI', sans-serif; background: #f8f9fa; }
+header { background: #1a1a2e; color: white; padding: 60px 0; text-align: center; }
+header h1 { font-size: 2.5rem; margin-bottom: 10px; }
+header img { width: 150px; height: 150px; object-fit: cover; border-radius: 50%; border: 3px solid white; margin-bottom: 20px; }
+.timeline { max-width: 600px; margin: 0 auto; }
+.timeline-item { background: white; border-left: 4px solid #0d6efd; padding: 15px 20px; margin-bottom: 20px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+.assignments { max-width: 800px; margin: 0 auto; }
+.assignment-item { background: white; border-left: 4px solid #0d6efd; padding: 15px 20px; margin-bottom: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+.assignment-item a { text-decoration: none; color: #0d6efd; }
+.assignment-item a:hover { text-decoration: underline; }
+footer { background: #1a1a2e; color: white; text-align: center; padding: 20px 0; }
